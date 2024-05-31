@@ -11,5 +11,5 @@
 <br>
 
 <br>
-[Solar power Invrter Using Microcontroller](./Solar power Invrter Using microcontroller): This was my first Project on Fiverr. Client provided me all the Schematics and I just designed the PCB. This PCB design looks as beginner level.
+[ADXL345 MCU](./ADXL345_MCU): This was my first Project on Fiverr. Client provided me all the Schematics and I just designed the PCB. This PCB design looks as beginner level.
 <br>
