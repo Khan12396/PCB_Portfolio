@@ -11,5 +11,5 @@
 <br>
 
 <br>
-[ADXL345 MCU](./ADXL345_MCU): This was my first Project on Fiverr. Client provided me all the Schematics and I just designed the PCB. This PCB design looks as beginner level.
+- Solar Power Inverter Using microcontroller](./Solar Power Inverter Using microcontroller): This was my first Project on Fiverr. Client provided me all the Schematics and I just designed the PCB. This PCB design looks as beginner level.
 <br>
