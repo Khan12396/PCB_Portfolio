@@ -10,6 +10,9 @@
 - Pictures.
 <br>
 
-<br>
-- Solar Power Inverter Using microcontroller](./Solar Power Inverter Using microcontroller): This was my first Project on Fiverr. Client provided me all the Schematics and I just designed the PCB. This PCB design looks as beginner level.
-<br>
+### 1. Solar Power Inverter Using microcontroller : 
+  This was my first Project on Fiverr. Client provided me all the Schematics and I just designed the PCB. This PCB design looks as beginner level.
+### 2. Solar Power Inverter Using microcontroller : 
+  This was my first Project on Fiverr. Client provided me all the Schematics and I just designed the PCB. This PCB design looks as beginner level.
+
+
